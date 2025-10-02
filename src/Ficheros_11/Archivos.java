@@ -19,6 +19,7 @@ public class Archivos {
             System.out.println("Archivo no encontrado.");
         }
     }
+
     static void LeerArchivo(String nombreArchivo) {
         var miArchivo = new File("./src/Ficheros_11/" + nombreArchivo);
 
