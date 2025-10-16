@@ -1,10 +1,10 @@
-package AppVentaComputadoras.Vista;
+package AppVentaComputadoras_24.Vista;
 
-import AppVentaComputadoras.Model.Computadora;
-import AppVentaComputadoras.Model.Monitor;
-import AppVentaComputadoras.Model.Raton;
-import AppVentaComputadoras.Model.Teclado;
-import AppVentaComputadoras.Service.Orden;
+import AppVentaComputadoras_24.Model.Computadora;
+import AppVentaComputadoras_24.Model.Monitor;
+import AppVentaComputadoras_24.Model.Raton;
+import AppVentaComputadoras_24.Model.Teclado;
+import AppVentaComputadoras_24.Service.Orden;
 
 public class UIVentaComputadoras {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package AppVentaComputadoras.Service;
+package AppVentaComputadoras_24.Service;
 
-import AppVentaComputadoras.Model.Computadora;
+import AppVentaComputadoras_24.Model.Computadora;
 
 import java.util.ArrayList;
 import java.util.List;

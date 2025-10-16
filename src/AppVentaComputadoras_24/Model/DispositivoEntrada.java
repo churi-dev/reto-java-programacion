@@ -1,4 +1,4 @@
-package AppVentaComputadoras.Model;
+package AppVentaComputadoras_24.Model;
 
 public class DispositivoEntrada {
 
